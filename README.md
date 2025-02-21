@@ -1,9 +1,9 @@
 # flutter_application_1
 
 A new Flutter project.
-##Eklediklerim
-- [History kısmında geçilen kelimeler görüntüleniyor. Favorilere eklendiyse yanında kalp iconu bulunuyor.]
-- [Favoriler kısmına favori'yi silme butonu koydum. Favorilerden kaldırabiliyoruz böylece kelimeleri.]
+## Eklediklerim
+- History kısmında geçilen kelimeler görüntüleniyor. Favorilere eklendiyse yanında kalp iconu bulunuyor.
+- Favoriler kısmına favori'yi silme butonu koydum. Favorilerden kaldırabiliyoruz böylece kelimeleri.
 
 ## Getting Started
 
